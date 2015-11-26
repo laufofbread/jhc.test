@@ -111,6 +111,10 @@ header h2 {
     color:  #818b96;
 }
 
+.fa {
+    margin-right:   5px;
+}
+
 .logo {
     text-transform: uppercase;
     margin:  0;
