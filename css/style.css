@@ -128,7 +128,7 @@ header h2 {
     font-weight:    200;
     line-height:    1;
     font-size:  1.6em;
-    background: url('logo.svg') no-repeat top left;
+    background: url('/logo.svg') no-repeat top left;
     background-size:    55px auto;
     overflow:   visible;
 }
